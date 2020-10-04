@@ -23,7 +23,6 @@ public class LizardmenController : MonoBehaviour
             move = new Vector3(speed, 0.0f, 0.0f);
             transform.position += move * Time.deltaTime;
             speed -= Time.deltaTime;
-            Debug.Log(speed);
         }
         else if (speed < movement)
         {
@@ -31,7 +30,6 @@ public class LizardmenController : MonoBehaviour
             move = new Vector3(speed, 0.0f, 0.0f);
             transform.position += move * Time.deltaTime;
             speed += Time.deltaTime;
-            Debug.Log(speed);
         }
         else
         {
