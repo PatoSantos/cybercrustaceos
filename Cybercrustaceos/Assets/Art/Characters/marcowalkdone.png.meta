@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: abca903c2b9e0504996c8e8b18814ea3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2083056989417054315
+    second: marcowalkdone_0
+  - first:
+      213: -2441287386817461615
+    second: marcowalkdone_1
+  - first:
+      213: -4383635625338057661
+    second: marcowalkdone_2
+  - first:
+      213: -4542883017924035521
+    second: marcowalkdone_3
+  - first:
+      213: 7378004565386844568
+    second: marcowalkdone_4
+  - first:
+      213: -6542493099433477083
+    second: marcowalkdone_5
+  - first:
+      213: -211427904766432765
+    second: marcowalkdone_6
+  - first:
+      213: -7750346307252056079
+    second: marcowalkdone_7
+  - first:
+      213: 5046507926063157250
+    second: marcowalkdone_8
+  - first:
+      213: -5597990646117781639
+    second: marcowalkdone_9
+  - first:
+      213: -6872500150511609852
+    second: marcowalkdone_10
+  - first:
+      213: -8352013957502631447
+    second: marcowalkdone_11
+  - first:
+      213: -293035340361402399
+    second: marcowalkdone_12
+  - first:
+      213: 1350448184681087698
+    second: marcowalkdone_13
+  - first:
+      213: 1508349252983297230
+    second: marcowalkdone_14
+  - first:
+      213: -1771251343126555886
+    second: marcowalkdone_15
+  - first:
+      213: 9120385643105600544
+    second: marcowalkdone_16
+  - first:
+      213: 8760546050251513246
+    second: marcowalkdone_17
+  - first:
+      213: 9034485805501203389
+    second: marcowalkdone_18
+  - first:
+      213: 3087503073526494774
+    second: marcowalkdone_19
+  - first:
+      213: 171313935494266021
+    second: marcowalkdone_20
+  - first:
+      213: -886175234806993746
+    second: marcowalkdone_21
+  - first:
+      213: 2693047411511289942
+    second: marcowalkdone_22
+  - first:
+      213: 2237487219957037320
+    second: marcowalkdone_23
+  - first:
+      213: 2423459592087793358
+    second: marcowalkdone_24
+  - first:
+      213: -4123398332931532916
+    second: marcowalkdone_25
+  - first:
+      213: 6885904218239315977
+    second: marcowalkdone_26
+  - first:
+      213: 5443357314241077170
+    second: marcowalkdone_27
+  - first:
+      213: 7292852255394596202
+    second: marcowalkdone_28
+  - first:
+      213: 7067069267183821345
+    second: marcowalkdone_29
+  - first:
+      213: 3730247071996511656
+    second: marcowalkdone_30
+  - first:
+      213: -8922799221483663075
+    second: marcowalkdone_31
+  - first:
+      213: 5091585011462046581
+    second: marcowalkdone_32
+  - first:
+      213: 2746926914953263962
+    second: marcowalkdone_33
+  - first:
+      213: 2073284092075947401
+    second: marcowalkdone_34
+  - first:
+      213: 7211250731155707520
+    second: marcowalkdone_35
+  - first:
+      213: 5475238907743640306
+    second: marcowalkdone_36
+  - first:
+      213: -1304301631734114938
+    second: marcowalkdone_37
+  - first:
+      213: 8434141683725072854
+    second: marcowalkdone_38
+  - first:
+      213: -6136358309474348291
+    second: marcowalkdone_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 436
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marcowalkdone_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1234
+        width: 302
+        height: 813
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1928a126e0ece1ed0800000000000000
+      internalID: -2441287386817461615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marcowalkdone_2
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1250
+        width: 392
+        height: 795
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c4afecf923a23c0800000000000000
+      internalID: -4383635625338057661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marcowalkdone_3
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1267
+        width: 246
+        height: 772
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cbb74e6ff64f0c0800000000000000
+      internalID: -4542883017924035521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marcowalkdone_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1198
+        width: 253
+        height: 793
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fa032ba21ff42b0800000000000000
+      internalID: -5597990646117781639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marcowalkdone_20
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 503
+        width: 353
+        height: 742
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb53edd11a06200800000000000000
+      internalID: 171313935494266021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marcowalkdone_21
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 449
+        width: 435
+        height: 790
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaca490b15ca3b3f0800000000000000
+      internalID: -886175234806993746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marcowalkdone_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 441
+        width: 424
+        height: 781
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f30795c62d0f10800000000000000
+      internalID: 2237487219957037320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marcowalkdone_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 365
+        width: 500
+        height: 778
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985b7a2a5e8c5cc10800000000000000
+      internalID: 2073284092075947401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
