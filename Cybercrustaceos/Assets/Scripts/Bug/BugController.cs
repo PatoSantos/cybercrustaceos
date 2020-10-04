@@ -1,10 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using System.Threading;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
-public class MarcoController : MonoBehaviour
+public class BugController : MonoBehaviour
 {
     public float speed = 3.0f;
     public float jumpForce = 5.0f;
@@ -12,25 +10,22 @@ public class MarcoController : MonoBehaviour
     float direction = 1.0f;
 
     Rigidbody2D rigidbody2d;
-    public Collider2D standingCollider;
     Animator animator;
 
     public GameObject possessionObj;
     private Possession possession;
-
     // Start is called before the first frame update
     void Start()
     {
         rigidbody2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        standingCollider = GetComponent<Collider2D>();
         possession = possessionObj.GetComponent<Possession>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (possession.mainChar)
+        if (!possession.mainChar)
         {
             float horizontal = Input.GetAxis("Horizontal");
             float vertical = Input.GetAxis("Vertical");
@@ -53,7 +48,7 @@ public class MarcoController : MonoBehaviour
                 animator.SetFloat("Speed", 0.0f);
             }
 
-            Jump(vertical);
+            Jump();
 
 
             Vector3 move = new Vector3(horizontal, 0f, 0f);
@@ -62,22 +57,11 @@ public class MarcoController : MonoBehaviour
         }
     }
 
-    void Jump(float vertical)
+    void Jump()
     {
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
-            rigidbody2d.AddForce(new Vector2(0.0f, jumpForce), ForceMode2D.Impulse); 
-        }
-
-        if (vertical < 0.0f && isGrounded)
-        {
-            animator.SetBool("Crouch", true);
-            standingCollider.enabled = false;
-        }
-        else
-        {
-            animator.SetBool("Crouch", false);
-            standingCollider.enabled = true;
+            rigidbody2d.AddForce(new Vector2(0.0f, jumpForce), ForceMode2D.Impulse);
         }
     }
 }
